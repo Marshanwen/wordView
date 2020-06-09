@@ -1,3 +1,5 @@
+##基于vue-cli构建的项目，可以实现背诵单词的功能
+
 # tuoci
 
 > A Vue.js project
